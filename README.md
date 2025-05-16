@@ -1,1 +1,1 @@
-# genai101
+# Fun Facts Generator
